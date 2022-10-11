@@ -17,7 +17,7 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 ![image](/screenshot/ss7.png)
 ### Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
-![image](/screenshot/ss8.png)
+![image](/screenshot/ss8.png)<p>
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 ![image](/screenshot/ss9.png)<p>
 ![image](/screenshot/ss10.png)
@@ -34,7 +34,7 @@ horizontal).
 ![image](/screenshot/ss13.png)
 ### Membuat Form
 Buat file baru dengan nama lab3_form.html seperti berikut.
-![image](/screenshot/ss14.png)
+![image](/screenshot/ss14.png)<p>
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 ![image](/screenshot/ss15.png)<p>
 ![image](/screenshot/ss16.png)
