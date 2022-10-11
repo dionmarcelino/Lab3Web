@@ -24,7 +24,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 ### Mengatur Margin Dan Padding
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
 cellspacing pada tag table.
-`<table border="1" cellpadding="6" cellspacing="0">` <p>
+`<table border="1" cellpadding="6" cellspacing="0">`
 ![image](/screenshot/ss11.png)
 ### Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
