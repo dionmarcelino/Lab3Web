@@ -1,24 +1,24 @@
 # Lab3Web
 ## Langkah - Langkah Praktikum
-Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut. <p>
 ![image](/screenshot/ss1.png)
 ### Membuat Ordered List
-Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+Kemudian tambahkan kode untuk membuat Ordered List seperti berikut. <p>
 ![image](/screenshot/ss2.png) <p>
 ![image](/screenshot/ss3.png)
 ### Membuat Unordered List
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
-section unordered-list, seperti berikut.
+section unordered-list, seperti berikut. <p>
 ![image](/screenshot/ss4.png)<p>
 ![image](/screenshot/ss5.png)
 ### Membuat Description List
-Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list. <p>
 ![image](/screenshot/ss6.png)<p>
 ![image](/screenshot/ss7.png)
 ### Membuat Tabel
-Buat file baru dengan nama lab3_tabel.html seperti berikut.
+Buat file baru dengan nama lab3_tabel.html seperti berikut. <p>
 ![image](/screenshot/ss8.png)<p>
-Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut: <p>
 ![image](/screenshot/ss9.png)<p>
 ![image](/screenshot/ss10.png)
 ### Mengatur Margin Dan Padding
