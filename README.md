@@ -29,16 +29,16 @@ cellspacing pada tag table.
 ### Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
-horizontal).
+horizontal). <p>
 ![image](/screenshot/ss12.png)<p>
 ![image](/screenshot/ss13.png)
 ### Membuat Form
-Buat file baru dengan nama lab3_form.html seperti berikut.
+Buat file baru dengan nama lab3_form.html seperti berikut. <p>
 ![image](/screenshot/ss14.png)<p>
-Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut: <p>
 ![image](/screenshot/ss15.png)<p>
 ![image](/screenshot/ss16.png)
 ### Menambahkan Style Pada Form
-Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut. <p>
 ![image](/screenshot/ss17.png)<p>
 ![image](/screenshot/ss18.png)
